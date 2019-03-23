@@ -2,4 +2,4 @@ def say_hello
   puts "Hello"
 end
 
-say_wow
+say_hello
