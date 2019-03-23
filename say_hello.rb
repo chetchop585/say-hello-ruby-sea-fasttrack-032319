@@ -1,4 +1,4 @@
-def say_wow
+def say_hello
   puts "wooooow"
 end
 
