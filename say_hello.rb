@@ -1,5 +1,5 @@
 def say_hello
-  puts "wooooow"
+  puts "Hello"
 end
 
 say_wow
