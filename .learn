@@ -1,3 +1,9 @@
-def say_hello()
+tags:
+  - variables
+  - arrays
+  - tictactoe
+languages:
+  - ruby
+resources: 0
 
 
